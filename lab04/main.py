@@ -10,6 +10,7 @@ print("Nowa talia:")
 deck = Deck()
 print(deck)
 
+
 print("Talia potasowana:")
 deck.shuffle()
 print(deck)
